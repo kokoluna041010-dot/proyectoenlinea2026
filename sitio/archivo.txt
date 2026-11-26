@@ -1,0 +1,5 @@
+1, Pantalon y2k,,
+2, Tinte de petroleo,10000,tinte
+3, lentes ojo de delfin,120,lentes
+4, chamarra grunge,200,chamarra
+5, pantalon cargo,300,pantalon
